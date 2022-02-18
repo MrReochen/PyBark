@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="PyBark",
-    version="0.1",
+    version="1.0",
     keywords=("pip", "PyBark", "Bark"),
     description="A simple Bark application for notification",
     long_description="A simple application to send a message push via Bark",
